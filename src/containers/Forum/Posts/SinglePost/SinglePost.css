@@ -1,0 +1,37 @@
+.single-post-page-box{
+    text-align: center;
+}
+
+.single-post-info-box{
+    text-align: center;
+    border: 1px solid white;
+    width: 50%;
+    border-radius: 5px;
+    margin: 10px auto;
+}
+
+.single-post-info-box img{
+    width: 100%;
+    border-bottom: 1px solid white;
+}
+
+.comments-list{
+    display: flex;
+    flex-direction: column-reverse;
+    height: 500px;
+    overflow-y: scroll;
+    border: 2px solid white;
+}
+
+.comment-form{
+    margin: 10px 0;
+}
+
+.comment-form input{
+    width: 70%;
+    padding: 5px;
+}
+
+.comment-form button{
+    padding: 5px;
+}
