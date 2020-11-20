@@ -1,0 +1,11 @@
+.comment-list-item {
+    border: 1px solid white;
+    margin: 10px;
+    border-radius: 5px;
+    text-align: left;
+    padding: 25px;
+}
+
+.comment-list-item h3 {
+    text-align: center;
+}

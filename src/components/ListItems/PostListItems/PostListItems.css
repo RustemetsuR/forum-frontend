@@ -1,0 +1,30 @@
+.postListItem-box{
+    width: 50%;
+    margin: 10px auto;
+    display: block;
+    text-align: center;
+    border: 1px solid white;
+    position: relative;
+    padding-bottom: 10px;
+}
+
+.posts-img{
+    width: 100%;
+    border-bottom: 1px solid white;
+}
+
+.posts-author{
+    position: absolute;
+    bottom: 0px;
+    right: 10px;
+    margin: 10px;
+}
+
+.posts-title{
+    margin: 10px;
+}
+
+.postListItem-box a{
+    color: white;
+    text-decoration: none;
+}
